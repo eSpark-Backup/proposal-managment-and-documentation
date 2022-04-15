@@ -1,0 +1,17 @@
+[0125/205313.515:INFO:CONSOLE(1)] "marketingtech.adobe.launch.environment invalid. Falling back to "production".", source: https://www.adobe.com/marketingtech/main.min.js (1)
+[0125/205315.592:INFO:CONSOLE(19)] "🚀 container.buildInfo.environment is deprecated.Please use `container.environment.stage` instead", source: https://assets.adobedtm.com/launch-EN919758db9a654a17bac7d184b99c4820.min.js (19)
+[0125/205316.053:INFO:CONSOLE(6)] "[object Object]", source: https://workflow.licenses.adobe.com/main.js (6)
+[0125/205316.119:INFO:CONSOLE(6)] "[object Object]", source: https://workflow.licenses.adobe.com/main.js (6)
+[0125/205322.546:WARNING:spdy_session.cc(3391)] Received HEADERS for invalid stream 3
+[0125/205341.504:INFO:CONSOLE(1)] "marketingtech.adobe.launch.environment invalid. Falling back to "production".", source: https://www.adobe.com/marketingtech/main.min.js (1)
+[0316/200232.957:INFO:CONSOLE(1)] "marketingtech.adobe.launch.environment invalid. Falling back to "production".", source: https://www.adobe.com/marketingtech/main.min.js (1)
+[0316/200234.038:INFO:CONSOLE(19)] "🚀 container.buildInfo.environment is deprecated.Please use `container.environment.stage` instead", source: https://assets.adobedtm.com/launch-EN919758db9a654a17bac7d184b99c4820.min.js (19)
+[0316/200237.829:INFO:CONSOLE(6)] "[object Object]", source: https://workflow.licenses.adobe.com/main.js (6)
+[0316/200237.862:INFO:CONSOLE(6)] "[object Object]", source: https://workflow.licenses.adobe.com/main.js (6)
+[0316/200241.883:WARNING:spdy_session.cc(3391)] Received HEADERS for invalid stream 5
+[0316/200353.437:INFO:CONSOLE(1)] "marketingtech.adobe.launch.environment invalid. Falling back to "production".", source: https://www.adobe.com/marketingtech/main.min.js (1)
+[0316/200355.397:INFO:CONSOLE(19)] "🚀 container.buildInfo.environment is deprecated.Please use `container.environment.stage` instead", source: https://assets.adobedtm.com/launch-EN919758db9a654a17bac7d184b99c4820.min.js (19)
+[0316/200356.922:INFO:CONSOLE(6)] "[object Object]", source: https://workflow.licenses.adobe.com/main.js (6)
+[0316/200356.951:INFO:CONSOLE(6)] "[object Object]", source: https://workflow.licenses.adobe.com/main.js (6)
+[0316/200400.459:INFO:CONSOLE(6)] "[object Object]", source: https://workflow.licenses.adobe.com/main.js (6)
+[0316/200401.720:INFO:CONSOLE(6)] "[object Object]", source: https://workflow.licenses.adobe.com/main.js (6)
